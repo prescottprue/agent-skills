@@ -1,1 +1,1 @@
-# agent-skills
+# Agent Skills
